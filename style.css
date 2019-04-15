@@ -9,7 +9,7 @@ background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, F
     overflow:hidden;
 }
 div{
-    margin-top:100px;
+    margin-top:50px;
     align-items: center;
     justify-content: center;
     width:100%;
@@ -110,4 +110,5 @@ p{
     font-size:18px;
     padding-left:12px;
     padding-right:12px;
+    font-weight:bold;
 }
